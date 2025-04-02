@@ -12,3 +12,7 @@ pydantic
 uvicorn
 gunicorn
 asyncpg
+pytest
+pytest-asyncio
+httpx
+locust
